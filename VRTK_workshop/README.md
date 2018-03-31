@@ -61,7 +61,8 @@ And we will build a basic scene with objects to interact with.
  
     <img src="https://github.com/mingwho/workshops/blob/master/VRTK_workshop/images/6VRTK_SDKManager.png" alt="alt text" height="200">
     <img src="https://github.com/mingwho/workshops/blob/master/VRTK_workshop/images/7VRTK_SDKSetup.png" alt="alt text" height="200">
-    <img src="https://github.com/mingwho/workshops/blob/master/VRTK_workshop/images/8QuickSelect.png" alt="alt text" height="200">
+    
+    <img src="https://github.com/mingwho/workshops/blob/master/VRTK_workshop/images/8QuickSelect.png" alt="alt text" height="400">
  
  
 ### How to interact with gameObjects using Vive controllers?
