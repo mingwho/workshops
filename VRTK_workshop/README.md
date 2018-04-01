@@ -56,7 +56,7 @@ And we will build a basic scene with objects to interact with.
     - Search for `VRTK_SDKSetup.cs` script and add this script to `VRTK_SDK Setup` GameObejct (See image below)
     - Change Quick Select option to `SteamVR` (Or `Simulator` if you are using a simulator) (See image below)
     - Search for `CameraRig` prefab and add this prefab to GameObject `VRTK_SDK Setup`
-    - Search for `SteamVR` prefab and add this prefab to `VRTK_SDK Setup`
+    - Search for `SteamVR` prefab and add this prefab to GameObject `VRTK_SDK Setup`
     - Select GameObject `VRTK_SDK Setup` and click `Populate Now` under `Object References` (See image below)
  
     <img src="https://github.com/mingwho/workshops/blob/master/VRTK_workshop/images/6VRTK_SDKManager.png" alt="alt text" height="200">
